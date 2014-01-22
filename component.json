@@ -2,7 +2,7 @@
     "name": "yadda",
     "version": "0.9.7",
     "description": "A true BDD framework for JavaScript",
-    "repo": "acuminous/yadda",
+    "repo": "johntron/yadda",
     "keywords": [
         "BDD",
         "Specification",
